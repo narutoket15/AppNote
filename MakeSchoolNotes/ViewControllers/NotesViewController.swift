@@ -55,7 +55,7 @@ class NotesViewController: UITableViewController {
     
     
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        if(segue.identifier == "ShowNote"){
+        if(segue.identifier == "ShowExistingNote"){
         let noteDisplay = segue.destinationViewController  as! NoteDisplayViewController
         noteDisplay.note = SelectedNote
         }
@@ -114,7 +114,7 @@ extension NotesViewController //เพิ่มความยืดหยุ่
         if editingStyle == .Delete{
             let note = notes[indexPath.row] as Object
             do{
-                let realm = try Realm()  //เชื่อมดาต้าเบส
+                let realm = try Realm()//เชื่อมดาต้าเบส
                 notes = realm.objects(Note).sorted("modificationDate", ascending: false) //ascending คือเรียงจาก น้อยไปมาก เป็น false คือกลับกัน
             }
             catch {
