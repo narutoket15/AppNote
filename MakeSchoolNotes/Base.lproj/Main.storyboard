@@ -14,7 +14,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="SnE-8M-M3p" customClass="NoteTableViewCell" customModule="MakeSchoolNotes" customModuleProvider="target">
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="NoteCell" id="SnE-8M-M3p" customClass="NoteTableViewCell" customModule="MakeSchoolNotes" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="92" width="600" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="SnE-8M-M3p" id="TfO-UH-qJG">
@@ -186,6 +186,7 @@
                     </view>
                     <connections>
                         <outlet property="contentTextView" destination="KdI-V9-7Rj" id="pVx-q5-Pto"/>
+                        <outlet property="titleTextField" destination="LpI-im-yIC" id="h7l-ZL-CjS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OeI-RC-4WO" userLabel="First Responder" sceneMemberID="firstResponder"/>

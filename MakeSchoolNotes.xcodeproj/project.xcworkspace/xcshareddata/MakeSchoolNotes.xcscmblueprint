@@ -1,17 +1,19 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42E19B894AA39E0F1E54D1AD566B2625DCABA33E",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3E84C02186B39C026CD2DD8FDF4A7CD8622613EF",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9722B737E31D45130BB9C9DB76C57719F5CC63E6" : 0,
+    "3E84C02186B39C026CD2DD8FDF4A7CD8622613EF" : 0,
     "AD973A403AA120D84C13DA340F4D79477029FFEF" : 0,
-    "42E19B894AA39E0F1E54D1AD566B2625DCABA33E" : 0,
     "BA499833F80BBA4EA3625B4BFBBF6919E08C7155" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BA5FACB-4B16-4C2A-9635-BA5DE4017AE9",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9722B737E31D45130BB9C9DB76C57719F5CC63E6" : "AppNotes\/",
+    "3E84C02186B39C026CD2DD8FDF4A7CD8622613EF" : "AppNote\/",
     "AD973A403AA120D84C13DA340F4D79477029FFEF" : "MakeSchoolNotes-Swift-Project",
-    "42E19B894AA39E0F1E54D1AD566B2625DCABA33E" : "AppNote\/",
     "BA499833F80BBA4EA3625B4BFBBF6919E08C7155" : "MakeSchoolNotes-Swift-Project\/Frameworks\/ConvenienceKit\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "MakeSchoolNotes",
@@ -19,9 +21,14 @@
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MakeSchoolNotes.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/narutoket15\/AppNote.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Littlekim13\/AppNote.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42E19B894AA39E0F1E54D1AD566B2625DCABA33E"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E84C02186B39C026CD2DD8FDF4A7CD8622613EF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Littlekim13\/AppNotes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9722B737E31D45130BB9C9DB76C57719F5CC63E6"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/orcudy\/MakeSchoolNotes-Swift-Project.git",
