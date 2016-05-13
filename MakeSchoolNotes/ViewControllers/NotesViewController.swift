@@ -99,7 +99,7 @@ extension NotesViewController //เพิ่มความยืดหยุ่
 {
     //mark: Delegate
     override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        
+        SelectedNote = notes[indexPath.row]
         self.performSegueWithIdentifier("ShowExistingNote", sender: self)
     }
     
