@@ -9,12 +9,44 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "MakeSchoolNotes/Views/NoteTableViewCell.swift"
-            timestampString = "475740909.49887"
+            filePath = "MakeSchoolNotes/ViewControllers/NotesViewController.swift"
+            timestampString = "481797394.826246"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "unwindToSegue(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/ViewControllers/NotesViewController.swift"
+            timestampString = "481797515.770092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MakeSchoolNotes/Views/NoteTableViewCell.swift"
+            timestampString = "481799490.52996"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "NoteTableViewCell"
             landmarkType = "3">
             <Locations>
@@ -25,8 +57,8 @@
                   symbolName = "MakeSchoolNotes.NoteTableViewCell.dateLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "MakeSchoolNotes"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dedpu/Downloads/Make-School-Notes-Starter-Project-starter_project/MakeSchoolNotes/Views/NoteTableViewCell.swift"
-                  timestampString = "475736782.048658"
+                  urlString = "file:///Users/dedpu/Desktop/AppNote/MakeSchoolNotes/Views/NoteTableViewCell.swift"
+                  timestampString = "481799490.558735"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -40,8 +72,8 @@
                   symbolName = "MakeSchoolNotes.NoteTableViewCell.dateLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "MakeSchoolNotes"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dedpu/Downloads/Make-School-Notes-Starter-Project-starter_project/MakeSchoolNotes/Views/NoteTableViewCell.swift"
-                  timestampString = "475736782.050411"
+                  urlString = "file:///Users/dedpu/Desktop/AppNote/MakeSchoolNotes/Views/NoteTableViewCell.swift"
+                  timestampString = "481799490.558969"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -55,8 +87,8 @@
                   symbolName = "MakeSchoolNotes.NoteTableViewCell.dateLabel.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
                   moduleName = "MakeSchoolNotes"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dedpu/Downloads/Make-School-Notes-Starter-Project-starter_project/MakeSchoolNotes/Views/NoteTableViewCell.swift"
-                  timestampString = "475736782.050566"
+                  urlString = "file:///Users/dedpu/Desktop/AppNote/MakeSchoolNotes/Views/NoteTableViewCell.swift"
+                  timestampString = "481799490.559117"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -70,13 +102,13 @@
                   symbolName = "MakeSchoolNotes.NoteTableViewCell.init (MakeSchoolNotes.NoteTableViewCell.Type)(style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; MakeSchoolNotes.NoteTableViewCell"
                   moduleName = "MakeSchoolNotes"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dedpu/Downloads/Make-School-Notes-Starter-Project-starter_project/MakeSchoolNotes/Views/NoteTableViewCell.swift"
-                  timestampString = "475736782.050708"
+                  urlString = "file:///Users/dedpu/Desktop/AppNote/MakeSchoolNotes/Views/NoteTableViewCell.swift"
+                  timestampString = "481799490.559266"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "146">
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "149">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -85,12 +117,12 @@
                   symbolName = "MakeSchoolNotes.NoteTableViewCell.init (MakeSchoolNotes.NoteTableViewCell.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MakeSchoolNotes.NoteTableViewCell&gt;"
                   moduleName = "MakeSchoolNotes"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dedpu/Downloads/Make-School-Notes-Starter-Project-starter_project/MakeSchoolNotes/Views/NoteTableViewCell.swift"
-                  timestampString = "475736782.050832"
+                  urlString = "file:///Users/dedpu/Desktop/AppNote/MakeSchoolNotes/Views/NoteTableViewCell.swift"
+                  timestampString = "481799490.559412"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
                   offsetFromSymbolStart = "88">
                </Location>
             </Locations>
